@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 module basic_gate(a,b,y1,y2,y3,y4,y5,y6);
 input a,b;
 output y1,y2,y3,y4,y5,y6;
@@ -73,8 +74,9 @@ nor g4(y4,a,b);
 xor g5(y5,a,b);
 not g6(y6,a);
 endmodule
-
- Developed by: RegisterNumber:25002356 
+```
+ Developed by: MANIKANDAN G
+ RegisterNumber:25002356 
  
 ## Logic symbol & Truthtable:
 <img width="723" height="476" alt="image" src="https://github.com/user-attachments/assets/56c7b3cd-f546-488a-b710-95238d7882cd" />
